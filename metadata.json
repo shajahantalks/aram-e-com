@@ -1,0 +1,6 @@
+{
+  "name": "Aram Brand - Pure Tamil Heritage & Temple Crafts",
+  "description": "Authentic Tamil traditional products, handloom sarees, bronze & Tanjore arts, temple puja essentials, and pure native goods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
